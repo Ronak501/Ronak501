@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronak Talaviya</h1>
-<h2 align="center">A passionate Web Developer 🚀 from India 🇮🇳 and currently pursuing B.E. in Computer Engineering at SCET. I love building clean, scalable, and functional web apps with React, Firebase, Flask, MongoDB and more.</h2>
+<h2 align="center">A passionate Web Developer 🚀 from India 🇮🇳 and currently pursuing B.Tech. in Computer Engineering at SCET. I love building clean, scalable, and functional web apps with React, Firebase, Flask, MongoDB and more.</h2>
 
 <table>
   <tr>
