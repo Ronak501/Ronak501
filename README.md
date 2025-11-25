@@ -122,17 +122,18 @@ Currently pursuing B.Tech in Computer Engineering at SCET. I love building clean
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronak-talaviya/)
 
 ---
-
 # 📊 GitHub Stats
 
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ronak501&theme=tokyo-night&hide_border=true)](https://git.io/streak-stats)
-
-## 📊 GitHub Stats
-![Ronak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronak501&show_icons=true&theme=tokyo-night)
-
-## 🧠 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak501&layout=compact&theme=tokyo-night)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronak501&theme=tokyonight" alt="Languages" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronak501&theme=tokyonight" alt="Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
