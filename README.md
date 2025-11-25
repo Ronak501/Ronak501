@@ -24,6 +24,11 @@ Currently pursuing B.Tech in Computer Engineering at SCET. I love building clean
 
 ---
 
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Ronak501&color=blueviolet)
+
+---
+
 # 🛠️ **Languages & Tools**
 
 ## 🔹 **Programming Languages**
@@ -120,20 +125,19 @@ Currently pursuing B.Tech in Computer Engineering at SCET. I love building clean
 
 # 📊 GitHub Stats
 
-### 🔹 Top Languages
-<p>
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Ronak501&show_icons=true&layout=compact&cache_seconds=86400" />
-</p>
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ronak501&theme=tokyo-night&hide_border=true)](https://git.io/streak-stats)
 
-### 🔹 Main Stats
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ronak501&show_icons=true&cache_seconds=86400" />
-</p>
+## 📊 GitHub Stats
+![Ronak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronak501&show_icons=true&theme=tokyo-night)
 
-### 🔹 Streak Stats (Stable)
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=Ronak501" />
-</p>
+## 🧠 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak501&layout=compact&theme=tokyo-night)
+
+---
+
+## 📊 GitHub Activity Graph
+[![Ronak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronak501&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
