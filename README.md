@@ -149,7 +149,7 @@
 
 ## 📈 Activity Graph
 
-[![Ronak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronak501&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ronak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronak501&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ronak501)
 
 ---
 
