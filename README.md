@@ -147,9 +147,27 @@
   </tr>
 </table>
 
-## 📈 Activity Graph
+## 🧩 LeetCode Statistics
 
-[![Ronak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronak501&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ronak501)
+<p align="center">
+  <a href="https://leetcode.com/u/Ronak_501/">
+    <img
+      src="https://leetcode-stats.tashif.codes/Ronak_501/stats/svg?theme=dark"
+      alt="Ronak's LeetCode Statistics"
+    />
+  </a>
+</p>
+
+## 📅 LeetCode Submission Activity
+
+<p align="center">
+  <a href="https://leetcode.com/u/Ronak_501/">
+    <img
+      src="https://leetcode-calander-svg.vercel.app/Ronak_501"
+      alt="Ronak's LeetCode Submission Heatmap"
+    />
+  </a>
+</p>
 
 ---
 
